@@ -2,14 +2,13 @@
 
 Esta é uma aplicação desenvolvida utilizando HTML CSS e JavaScript. 
 
-<img src="aluraSpace.png" alt="Imagem do jogo" width="50%">
-
+https://github.com/V-Carvalho/Jogo-Da-Memoria/assets/34304319/bf32f5c8-2ef8-4199-a485-7d8599565393
 
 ## 🔨 Funcionalidades do projeto
 
-Você pode acessar <a href="" target="_blank">clicando aqui!</a> <br>
+Você pode acessar <a href="" target="_blank">clicando aqui</a> para conferir!
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Tecnologias utilizadas
 
 Se liga nessa lista de tudo que usaremos nesse Projeto:
 
@@ -23,4 +22,4 @@ E muito mais!
 
 Para abrir e rodar o projeto, instale no vscode a extensão `Live Server` e depois clique em `Go Live` para inicar o projeto.
 
-Depois, acesse <p>http://127.0.0.1:5500//</p> no seu navegador.
+Depois, acesse http://127.0.0.1:5500/ no seu navegador.

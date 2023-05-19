@@ -6,7 +6,7 @@ https://github.com/V-Carvalho/Jogo-Da-Memoria/assets/34304319/bf32f5c8-2ef8-4199
 
 ## 🔨 Funcionalidades do projeto
 
-Você pode acessar <a href="" target="_blank">clicando aqui</a> para conferir!
+Você pode acessar <a href="https://memory-game-rick-morty.netlify.app/" target="_blank">clicando aqui</a> para conferir!
 
 ## ✔️ Tecnologias utilizadas
 
